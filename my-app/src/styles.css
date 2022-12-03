@@ -1,0 +1,9 @@
+.App {
+    justify-content: center;
+    font-family: sans-serif;
+    align-items: center;
+  }
+  pic {
+    width: 300px;
+    height: 300px;
+  }
